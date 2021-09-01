@@ -19,7 +19,7 @@ export default function App() {
             options = {{
               title: "Relatorio COVID-19",
               headerStyle: {
-                backgroundColor: 'blue',
+                backgroundColor: '#ef135b',
                 textAlign: 'left'
               },
               headerTintColor: '#fff',
@@ -35,7 +35,7 @@ export default function App() {
             options = {{
               title: "Registro de Atendimento",
               headerStyle: {
-                backgroundColor: 'blue',
+                backgroundColor: '#ef135b',
                 textAlign: 'left'
               },
               headerTintColor: '#fff',
