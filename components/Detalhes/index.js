@@ -28,9 +28,7 @@ const Atendimento = ({ route, navigation }) => {
       <Container>
         <Paciente>
           <Header>
-            <Text style={{ fontWeight: 'bold', fontSize: 16, fontStyle: 'italic' }}>
-              {item}
-            </Text>
+            <Text><b>{item}</b></Text>
           </Header>
 
           <Content>
@@ -39,17 +37,16 @@ const Atendimento = ({ route, navigation }) => {
             <CaixaDeTexto>Doenças pré-existentes: {doenca_preexitente}</CaixaDeTexto>
             <View style={{ flexDirection: 'row', alignItems: 'center' }}>
               <CaixaDeTexto>Status Covid:</CaixaDeTexto>
-              <Text style={{ color: `${route.params.statusColor}`, marginLeft: 10, fontWeight: 'bold'}}>{statuscovid}</Text>
+              <Text style={{ color: `${route.params.statusColor}`, marginLeft: 10}}>{statuscovid}</Text>
             </View>
           </Content>
         </Paciente>
 
         <Button
-          onPress={() => { navigation.goBack() }}
-        >
-          <Text style={{ color: 'white', fontSize: 18, fontWeight: 'bold', textAlign: 'center' }}>
-            Voltar
-          </Text>
+          onPress={() => { navigation.goBack() }}>
+            <Text style={{ color: 'white', fontSize: 16, textAlign: 'center' }}>
+              Voltar
+            </Text>
         </Button>
       </Container>
     </Page>
