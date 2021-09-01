@@ -2,16 +2,7 @@ import React from 'react';
 import { FlatList, Text } from 'react-native';
 import { FontAwesome } from '@expo/vector-icons';
 
-import {
-  Page,
-  Positivos,
-  Suspeitas,
-  Negativos,
-  Container,
-  Paciente,
-  Header,
-  Footer,
-} from './styles';
+import { Page, Positivos, Suspeitas, Negativos, Container, Paciente, Header, Footer } from './styles';
 import { DADOS_COVID } from '../../dados/dados_covid';
 
 const RegistroCovid = ({ navigation }) => {
