@@ -4,7 +4,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Mario de Andrade",
-        sexo: "masculino",
+        sexo: "Masculino",
         data_nasc: "25/04/1986",
         data_atendimento: "10/03/2020",
         sintomas: "febre, dor de cabeça, coriza",
@@ -14,7 +14,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Luciana de Almeida Prado",
-        sexo: "feminino",
+        sexo: "Feminino",
         data_nasc: "13/01/1990",
         data_atendimento: "10/03/2020",
         sintomas: "febre, falta de ar",
@@ -24,7 +24,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Roberto Cruzoé",
-        sexo: "masculino",
+        sexo: "Masculino",
         data_nasc: "01/04/1960",
         data_atendimento: "13/03/2020",
         sintomas: "febre, dor de cabeça, coriza, falta de ar",
@@ -34,7 +34,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Mauricio Boro",
-        sexo: "masculino",
+        sexo: "Masculino",
         data_nasc: "25/04/1999",
         data_atendimento: "20/03/2020",
         sintomas: "febre, dor de cabeça, coriza",
@@ -44,7 +44,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Mariana Castro",
-        sexo: "feminino",
+        sexo: "Feminino",
         data_nasc: "14/06/1983",
         data_atendimento: "30/03/2020",
         sintomas: "nauseas, diarreia, dor de cabeça",
@@ -54,7 +54,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Julia de Souza",
-        sexo: "feminino",
+        sexo: "Feminino",
         data_nasc: "13/05/1997",
         data_atendimento: "01/04/2020",
         sintomas: "febre, falta de ar",
@@ -64,7 +64,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Gustavo Calixto",
-        sexo: "masculino",
+        sexo: "Masculino",
         data_nasc: "03/12/1982",
         data_atendimento: "02/04/2020",
         sintomas: "falta de ar, coriza, febre",
@@ -74,7 +74,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Julieta Severo",
-        sexo: "feminino",
+        sexo: "Feminino",
         data_nasc: "30/12/1987",
         data_atendimento: "10/04/2020",
         sintomas: "febre, falta de ar, nauseas",
@@ -84,7 +84,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "José Celestino Carrete",
-        sexo: "masculino",
+        sexo: "Masculino",
         data_nasc: "01/03/1955",
         data_atendimento: "20/04/2020",
         sintomas: "febre, dor de cabeça, coriza, nauseas",
@@ -94,7 +94,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Joaquina Ferreira da Silva",
-        sexo: "feminino",
+        sexo: "Feminino",
         data_nasc: "30/05/1980",
         data_atendimento: "20/04/2020",
         sintomas: "coriza, falta de ar",
@@ -104,7 +104,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Ermelino Rodrigues de Souza",
-        sexo: "masculino",
+        sexo: "Masculino",
         data_nasc: "03/11/1966",
         data_atendimento: "25/04/2020",
         sintomas: "febre, falta de ar",
@@ -114,7 +114,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Jéssica Cavalcante",
-        sexo: "feminino",
+        sexo: "Feminino",
         data_nasc: "15/09/1988",
         data_atendimento: "27/04/2020",
         sintomas: "dor de cabeça, falta de ar",
@@ -124,7 +124,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Regina Duarte",
-        sexo: "feminino",
+        sexo: "Feminino",
         data_nasc: "25/04/1950",
         data_atendimento: "30/04/2020",
         sintomas: "febre, nauseas, diarreia",
@@ -134,7 +134,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Manoel Bonfim",
-        sexo: "masculino",
+        sexo: "Masculino",
         data_nasc: "15/10/1977",
         data_atendimento: "01/05/2020",
         sintomas: "falta de ar, coriza",
@@ -144,7 +144,7 @@ export const DADOS_COVID = [
     {
         id: uuid(),
         nome: "Suellen Tamares Souza",
-        sexo: "feminino",
+        sexo: "Feminino",
         data_nasc: "31/03/1944",
         data_atendimento: "01/05/2020",
         sintomas: "diarreia, nauseas, falta de ar",
